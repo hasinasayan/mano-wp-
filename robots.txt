@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://mano.mg/sitemap.xml
+Sitemap:https://mano.mg/sitemap_1.xml
